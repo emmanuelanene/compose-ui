@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- name = value to call the theme anywhere in the app -->
+<!-- Theme.Material.Light: This is a light theme based on Material Design -->
+<!-- NoActionBar: The app should not show the top action bar -->
+<resources>
+    <style name="Theme.Project1972" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
