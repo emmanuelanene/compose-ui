@@ -189,7 +189,7 @@ class MainActivity : ComponentActivity() {
                         )
                     },
                     alwaysShowLabel = true,     // Ensures the label text is always visible, not just when the item is selected.
-                    enabled = true      // Specifies whether the item is enabled and can be clicked...
+                    enabled = true      // Specifies whether the item is enabled and can be clicked...rrr
                 )
             }
         }
